@@ -1,0 +1,76 @@
+/* Blocos */
+
+.produtos {
+    display: inline-block;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 3px;
+    font-weight: bold;
+    font-size: 30px;
+    width: 280px;
+    height: 310px;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 30px;
+
+}
+
+.blocos {
+    display: block;
+    text-align: center;
+}
+
+
+h1 {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.imagens_dos_produtos {
+    border-radius: 9px;
+    height: 200px;
+    width: 200px;
+}
+
+#bloco_de_cima {
+    margin-top: 200px;
+}
+
+/* Rodapé da Página */
+
+.rodape {
+    margin-top: 60px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-image: url(imgs/bg.jpg);
+}
+
+#copyright {
+    color: white !important;
+}
+
+.logo_branco {
+    margin-top: 30px;
+    width: 200px;
+
+}
+
+p {
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+.produtos1 a {
+    border-color: #c78c19;
+    border-width: 10px;
+}
